@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(201, 192, 192);
+}
+#navbar {
+    width:90%;
+    background-color: gray;
+    height:70px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    display: flex;
+    border-radius: 20px;
+    margin:auto;
+}
+#navbar > div {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    height:40%;
+    margin:auto;
+    width:100px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 20px;
+}
+
+#baby-div{
+width: 300px;
+
+}
